@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor com foco em projetos educacionais, algoritmos, C, Python e soluções práticas para problemas computacionais. Atualmente cursando Ciência da Computação, com forte interesse por sistemas de baixo nível, estruturas de dados e performance.
+Desenvolvedor com foco em projetos educacionais, algoritmos, C, Python e soluções práticas para problemas computacionais. Atualmente cursando Engenharia Da Computação, com forte interesse por sistemas de baixo nível, estruturas de dados e performance.
 
 ---
 
