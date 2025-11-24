@@ -45,7 +45,6 @@ Atualmente curso Engenharia da Computação, com interesse em sistemas de baixo 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical" alt="Top langs"/>
 </p>
 
-
 ---
 
 ## 🧭 Linha do tempo
