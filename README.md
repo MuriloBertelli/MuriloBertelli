@@ -40,10 +40,14 @@ Atualmente curso Engenharia da Computação, com interesse em sistemas de baixo 
 
 ## 📊 Estatísticas & Linguagens
 
+
+  
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" alt="Github stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical" alt="Top langs"/>
 </p>
+
+
 
 
 ---
