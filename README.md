@@ -16,10 +16,10 @@
 
 # 🧠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@ Atualmente curso **Engenharia da Computação**, com interesse em sistemas de ba
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" alt="Github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical" alt="Top langs"/>
+<img height="165" src="https://github-readme-stats-lime-zeta-38.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" />
+<img height="165" src="https://github-readme-stats-lime-zeta-38.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
@@ -75,10 +75,11 @@ Computer Engineering student interested in low-level systems, data structures, a
 - **Email:** mbertelli1@gmail.com  
 
 ## 📈 Stats
+
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" alt="Github stats EN"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&theme=radical" alt="Top langs EN"/>
+<img height="150" src="https://github-readme-stats-lime-zeta-38.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true"/>
+<img height="150" src="https://github-readme-stats-lime-zeta-38.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&theme=radical"/>
 
 </div>
 
