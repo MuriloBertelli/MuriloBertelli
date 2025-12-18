@@ -1,6 +1,6 @@
 <!-- README: Murilo Bertelli (PT/EN) -->
 
-<h1 align="center">✨ Murilo Bertelli ✨</h1>
+<h1 align="center"> Murilo Bertelli </h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
@@ -39,10 +39,8 @@ Atualmente curso **Engenharia da Computação**, com interesse em sistemas de ba
 # 📊 Estatísticas & Linguagens
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-lime-zeta-38.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" />
-<img height="165" src="https://github-readme-stats-lime-zeta-38.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
@@ -78,10 +76,8 @@ Computer Engineering student interested in low-level systems, data structures, a
 ## 📈 Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats-lime-zeta-38.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true"/>
-<img height="150" src="https://github-readme-stats-lime-zeta-38.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&theme=radical"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuriloBertelli&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBertelli&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
