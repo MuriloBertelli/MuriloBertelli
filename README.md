@@ -57,9 +57,11 @@ Atualmente curso **Engenharia da Computação**, com interesse em sistemas de ba
 
 # 🐍 Snake – GitHub Contribution Graph
 
-<div align="center">
-  <img src="[https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/github-contribution-grid-snake.svg](https://github.com/MuriloBertelli/MuriloBertelli.git)" alt="Snake animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake.svg">
+</picture>
 ---
 
 # 🇬🇧 English Version
