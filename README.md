@@ -49,17 +49,8 @@ Atualmente curso **Engenharia da Computação**, com interesse em sistemas de ba
 
 - **2022** — primeiros projetos práticos em C  
 - **2023** — modularização, leitura de arquivos, Makefiles  
-- **2024–atual** — foco em engenharia educacional, boas práticas e CI  
+- **2024–atual** — foco em engenharia educacional, boas práticas e CI
 
----
-
-# 🐍 Snake – GitHub Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MuriloBertelli/MuriloBertelli/output/snake.svg">
-</picture>
 ---
 
 # 🇬🇧 English Version
