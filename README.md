@@ -62,7 +62,7 @@ Computer Engineering student interested in low-level systems, data structures, a
 
 ## 🔗 Quick links
 - **LinkedIn:** https://www.linkedin.com/in/murilo-bertelli-7a6924984  
-- **Email:** mbertelli1@gmail.com  
+- **Email:** mbertelli@gmail.com  
 
 ## 📈 Stats
 
