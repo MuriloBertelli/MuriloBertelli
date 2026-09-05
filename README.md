@@ -32,8 +32,6 @@ Atualmente curso **Engenharia da Computação**, com interesse em sistemas de ba
 ## 📬 Contato
 - **LinkedIn:** https://www.linkedin.com/in/murilo-bertelli-7a6924984  
 - **Email:** mbertelli1@gmail.com  
-- **Instagram:** https://www.instagram.com/murilo_bertelli7  
-
 ---
 
 # 📊 Estatísticas & Linguagens
